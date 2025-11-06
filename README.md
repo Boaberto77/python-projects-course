@@ -6,3 +6,4 @@
  2 Adds a windows GUI to the Guess the number game.
  3 Add Rock, Paper, Scissors game
  4 Add Ticking Clock
+ 5 Add Palindrome checker
