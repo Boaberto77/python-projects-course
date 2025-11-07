@@ -7,3 +7,4 @@
  3 Add Rock, Paper, Scissors game
  4 Add Ticking Clock
  5 Add Palindrome checker
+ 6 Adds an arrow checker
