@@ -8,3 +8,6 @@
  4 Add Ticking Clock
  5 Add Palindrome checker
  6 Adds an arrow checker
+ 7 Add a Password validator
+ 8 Adds a Password Generator
+ 9 Adds a hangman game
